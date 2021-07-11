@@ -1,6 +1,6 @@
 # V2Ray Heroku
 
-**Heroku 已经封禁本专案，请 Fork 本专案后，将 `README.md` 中的 `bclswl0827` 替换为自己的用户名后，再进行部署。**
+**Heroku 已经封禁之前的专案，目前已经修改 README.md 中的`bclswl0827`用户名称，现在可以在这个页面正常部署。**
 
 **若需部署 V2Ray VLESS，请转到 [vless](https://github.com/bclswl0827/v2ray-heroku/tree/vless) 分支。**
 
